@@ -27,4 +27,4 @@ I'm a **self-taught developer**. When I'm not wrangling lines of code, you can f
 </div>
 
 <h3 align="left" >My Github Stats</h3>
-![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilsinghrana&show_icons=true&theme=transparent)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sunilsinghrana&theme=dark)](https://git.io/streak-stats)
