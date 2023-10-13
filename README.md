@@ -27,4 +27,4 @@ I'm a **self-taught developer**. When I'm not wrangling lines of code, you can f
 </div>
 
 <h3 align="left" >My Github Stats</h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sunilsinghrana&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sunilsinghrana&theme=dark" alt="GitHub Streak" /></a>
