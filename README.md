@@ -25,3 +25,6 @@ I'm a **self-taught developer**. When I'm not wrangling lines of code, you can f
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
 </div>
+
+<h3 align="left" >My Github Stats</h3>
+![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilsinghrana&show_icons=true&theme=transparent)
